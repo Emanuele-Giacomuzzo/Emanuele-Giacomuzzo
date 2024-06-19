@@ -2,7 +2,7 @@
 
 My name is Ema and I'm a PhD student in Ecology at Eawag and University of Zürich in Switzerland ⛰️ 
 
-I use protist experiments 🔬 to understand how flows of non-living resources (such as 🍂 and 💩) among ecosystems influences their biodiversity 🐦 🐪 🐺 🦏 and function ⚙️ . It's fun.
+I use protist experiments 🔬 to understand how flows of non-living resources (such as 🍂 and 💩) among ecosystems influences their biodiversity 🐦 🐪 🐺 🦏 and function ⚙️ 
 
 <!--
 **Emanuele-Giacomuzzo/Emanuele-Giacomuzzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
