@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Ema 👋
 
 My name is Ema and I'm a PhD student in Ecology at Eawag and University of Zürich in Switzerland ⛰️ 
 
