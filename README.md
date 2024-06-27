@@ -1,6 +1,6 @@
 ## Hi there, I'm Ema 👋
 
-My name is Ema and I'm a PhD student in Ecology at Eawag and University of Zürich in Switzerland ⛰️ 
+My name is Emanuele Giacomuzzo and I'm a PhD student in Ecology at Eawag and University of Zürich in Switzerland ⛰️ 
 
 I use protist experiments 🔬 to understand how flows of non-living resources (such as 🍂 and 💩) among ecosystems influences their biodiversity 🐦 🐪 🐺 🦏 and function ⚙️ 
 
