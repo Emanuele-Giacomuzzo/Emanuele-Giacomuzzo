@@ -6,6 +6,8 @@ Take, for instance, leaves falling from forests into streams. Does the size of t
 
 To address this, my PhD focuses on disentangling these complexities through controlled laboratory experiments. I use model protist communities to simulate ecosystems that exchange non-living resources, enabling me to investigate how ecosystem size influences resource flows and their effects in a simplified yet meaningful way (proof-of-concept).
 
+Know more about my research by visiting my website @ https://emanuele-giacomuzzo.github.io/Website/
+
 <!--
 **Emanuele-Giacomuzzo/Emanuele-Giacomuzzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
