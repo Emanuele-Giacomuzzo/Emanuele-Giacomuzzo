@@ -1,12 +1,10 @@
 ## Hi there, I'm Ema 👋
 
-I am a PhD student in the [Altermatt Lab](https://www.altermattlab.ch), where I study how flows of non-living resources connect ecosystems. Ecosystems are intrinsically linked by such flows; for example, leaves falling from forest trees into streams, bears transporting fish remains deep into forests, or wind carrying nutrients across the Atlantic to link the Sahara Desert with the Amazon rainforest. Despite the ubiquity of these connections, how the size of ecosystems influences these resource flows remains poorly understood.
+I am a cross-ecosystem ecologist studying how spatial flows connect ecosystems and shape biodiversity and ecosystem functioning. I integrate fieldwork, experiments, synthesis, and modelling to address questions across scales. I am passionate about developing reproducible and reusable analytical workflows for ecology, promoting open science, and science communication.
 
-Take, for instance, leaves falling from forests into streams. Does the size of the forest determine the type of leaves that fall? And do streams of different sizes respond differently to these inputs? Answering such questions in natural environments is challenging due to the many confounding variables.
+I am currently a postdoc in the lab of Prof Jana Isanta-Navarro at the University of Copenhagen. 
 
-To address this, my PhD focuses on disentangling these complexities through controlled laboratory experiments. I use model protist communities to simulate ecosystems that exchange non-living resources, enabling me to investigate how ecosystem size influences resource flows and their effects in a simplified yet meaningful way (proof-of-concept).
-
-Know more about my research by visiting my [website](https://emanuele-giacomuzzo.github.io/website/)
+Know more about my research by visiting my [website](https://emanuele-giacomuzzo.github.io/website/).
 
 <!--
 **Emanuele-Giacomuzzo/Emanuele-Giacomuzzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
